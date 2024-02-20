@@ -1,0 +1,14 @@
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\bin\Debug\net8.0\Pj_TareaSemana2.exe
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\bin\Debug\net8.0\Pj_TareaSemana2.deps.json
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\bin\Debug\net8.0\Pj_TareaSemana2.runtimeconfig.json
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\bin\Debug\net8.0\Pj_TareaSemana2.dll
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\bin\Debug\net8.0\Pj_TareaSemana2.pdb
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.AssemblyInfoInputs.cache
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.AssemblyInfo.cs
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.dll
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\refint\Pj_TareaSemana2.dll
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.pdb
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\Pj_TareaSemana2.genruntimeconfig.cache
+C:\Users\Raquel\Desktop\CSharp_Tarea2\Pj_Tarea2\obj\Debug\net8.0\ref\Pj_TareaSemana2.dll

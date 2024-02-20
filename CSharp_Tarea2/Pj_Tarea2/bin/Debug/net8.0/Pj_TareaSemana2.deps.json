@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pj_TareaSemana2/1.0.0": {
+        "runtime": {
+          "Pj_TareaSemana2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pj_TareaSemana2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
